@@ -28,3 +28,4 @@
 [submodule "vendor/libchromiumcontent"]
 	path = vendor/libchromiumcontent
 	url = https://github.com/electron/libchromiumcontent
+	branch = electron-1-8-x
